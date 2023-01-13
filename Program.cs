@@ -195,4 +195,4 @@ namespace UAS_094
 //NO 3. array itu terdapat batasannya 
 //NO 4. Rear dan font
 //NO 5. (a) 46 & 55, 62 & 64, 16 & 53, 41 & 47, 63 & 70
-//(b) preorder = 60,41,16,25,53,46,42,55,74,65,63,62,64,70
+//(b) preorder = 60,41,16,25,53,46,42,55,74,65,63,62,64,70//
